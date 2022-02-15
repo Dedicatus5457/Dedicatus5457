@@ -3,7 +3,8 @@
 - Learning Java/C
 - Maintain Xiaomi 2s flashing resource download site
 - Learning compos
-[![](https://github-readme-stats.vercel.app/api?username=Dedicatus5457)](https://github.com/Dedicatus5457)
+
+# [![](https://github-readme-stats.vercel.app/api?username=Dedicatus5457)](https://github.com/Dedicatus5457)
 
 
 <!--
