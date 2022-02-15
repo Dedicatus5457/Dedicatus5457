@@ -1,4 +1,6 @@
 ### Hi there 👋
+## 🤔 What I'm doing？
+ - Learning Java/C
 [![](https://github-readme-stats.vercel.app/api?username=Dedicatus5457)](https://github.com/Dedicatus5457)
 
 
