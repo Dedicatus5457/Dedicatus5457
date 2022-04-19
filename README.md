@@ -1,7 +1,9 @@
 ### Hi there 👋
 ## 🤔 What I'm doing？
 - Learning Java/C
-- Learning compos
+## How To find me?
+- Telegram:@HouQiyao
+- QQ:2670327114
 
 # [![](https://github-readme-stats.vercel.app/api?username=Dedicatus5457)](https://github.com/Dedicatus5457)
 
