@@ -5,7 +5,7 @@
 - Telegram:@HouQiyao
 - QQ:2670327114
 - Gitee:@HouQiyao2077
-- WeChat:Misaka Mikoto
+- WeChat:MisakaMikoto12508
 
 # [![](https://github-readme-stats.vercel.app/api?username=Dedicatus5457)](https://github.com/Dedicatus5457)
 
