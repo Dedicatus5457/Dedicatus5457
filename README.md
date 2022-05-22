@@ -5,7 +5,6 @@
 - Telegram:@HouQiyao
 - QQ:2670327114
 - Gitee:@HouQiyao2077
-- WeChat:MisakaMikoto12508
 - coolapk:@天天诈尸还会飞的鱼
 - xda forum:@rrdyt
 # ![Dedicatus5457's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dedicatus5457&show_icons=true&theme=tokyonight)
