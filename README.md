@@ -8,7 +8,7 @@
 - WeChat:MisakaMikoto12508
 - coolapk:@天天诈尸还会飞的鱼
 - xda forum:@rrdyt
-# [![](https://github-readme-stats.vercel.app/api?username=Dedicatus5457)](https://github.com/Dedicatus5457)
+# ![Dedicatus5457's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dedicatus5457&show_icons=true&theme=tokyonight)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dedicatus5457&layout=compact)](https://github.com/Dedicatus5457/github-readme-stats)  
 
 
