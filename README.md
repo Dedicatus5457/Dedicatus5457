@@ -9,6 +9,7 @@
 - coolapk:@天天诈尸还会飞的鱼
 - xda forum:@rrdyt
 # [![](https://github-readme-stats.vercel.app/api?username=Dedicatus5457)](https://github.com/Dedicatus5457)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dedicatus5457&layout=compact)](https://github.com/Dedicatus5457/github-readme-stats)  
 
 
 <!--
