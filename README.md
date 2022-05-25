@@ -23,7 +23,6 @@
 - ~~百合~~
 
 # ![Dedicatus5457's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dedicatus5457&show_icons=true&theme=tokyonight)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dedicatus5457&layout=compact)](https://github.com/Dedicatus5457/github-readme-stats)  
  My ![Visitor Count](https://profile-counter.glitch.me/Dedicatus5457/count.svg)vsitor
 
 <!--
