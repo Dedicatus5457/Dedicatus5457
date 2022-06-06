@@ -1,10 +1,10 @@
 ### Hi there 👋
 ## 🤔 What I'm doing？
 - Learning Java/C
+- attend school
 ## How To find me?
 - Telegram:@HouQiyao
-- QQ:2670327114
-- Gitee:@HouQiyao2077
+- Tencent QQ:2670327114
 - coolapk:@天天诈尸还会飞的鱼
 - xda forum:@rrdyt
 
