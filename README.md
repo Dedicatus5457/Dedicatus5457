@@ -7,21 +7,6 @@
 - Gitee:@HouQiyao2077
 - coolapk:@天天诈尸还会飞的鱼
 - xda forum:@rrdyt
-### 你好！ 👋
-## 🤔 我目前在干什么？？
-- 学习 Java/C
-- 上学
-- ~~捡垃圾~~
-## 如何找到我？?
-- Telegram:@HouQiyao
-- QQ:2670327114
-- Gitee:@HouQiyao2077
-- coolapk:@天天诈尸还会飞的鱼
-- xda 论坛:@rrdyt
-### 我喜欢什么？
-- ~~二次元~~
-- 白毛
-- ~~百合~~
 
 # ![Dedicatus5457's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dedicatus5457&show_icons=true&theme=tokyonight)
  My ![Visitor Count](https://profile-counter.glitch.me/Dedicatus5457/count.svg)vsitor
