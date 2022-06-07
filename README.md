@@ -3,7 +3,7 @@
 - Learning Java/C
 - Attend school
 ## How To find me?
-- Telegram:@HouQiya
+- Telegram:@HouQiyao
 - Tencent QQ:2670327114
 - coolapk:@天天诈尸还会飞的鱼
 - xda forum:@rrdyt
