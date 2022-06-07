@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## 🤔 What I'm doing？
 - Learning Java/C
-- attend school
+- Attend school
 ## How To find me?
 - Telegram:@HouQiyao
 - Tencent QQ:2670327114
