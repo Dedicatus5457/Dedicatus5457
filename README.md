@@ -1,10 +1,4 @@
 ### Hi there 👋
-## How To find me?
-- Telegram:@HouQiyao
-- Tencent QQ:2670327114
-- coolapk:@天天诈尸还会飞的鱼
-- xda forum:@rrdyt
-
 # ![Dedicatus5457's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dedicatus5457&show_icons=true&theme=tokyonight)
  My ![Visitor Count](https://profile-counter.glitch.me/Dedicatus5457/count.svg)vsitor
 
