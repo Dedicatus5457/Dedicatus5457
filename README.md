@@ -2,10 +2,9 @@
 # ![Dedicatus5457's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dedicatus5457&show_icons=true&theme=tokyonight)
  My ![Visitor Count](https://profile-counter.glitch.me/Dedicatus5457/count.svg)vsitor
 ### Contact me?
-E-Mail:ryanhou24@gmail.com/ryanhou24@foxmail.com
-Telegram:https://t.me/HouQiyao
-Telegram Personal Channel :https://t.me/D5457channel
-Tencent QQ: 2670327114
+- E-Mail:ryanhou24@gmail.com/ryanhou24@foxmail.com
+- Telegram:https://t.me/HouQiyao
+- Telegram Personal Channel :https://t.me/D5457channel
 <!--
 **Dedicatus5457/Dedicatus5457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
