@@ -2,7 +2,7 @@
 # ![Dedicatus5457's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dedicatus5457&show_icons=true&theme=tokyonight)
  My ![Visitor Count](https://profile-counter.glitch.me/Dedicatus5457/count.svg)vsitor
 ### Contact me?
-- EMail:ryanhou24@gmail.com/ryanhou24@foxmail.com
+- EMail:ryanhou24@foxmail.com
 - Telegram:https://t.me/HouQiyao
 - Telegram Personal Channel :https://t.me/D5457channel
 <!--
