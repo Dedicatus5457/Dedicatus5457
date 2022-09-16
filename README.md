@@ -8,6 +8,8 @@
 ### Keys
 - [PGP Public Key](https://raw.githubusercontent.com/Dedicatus5457/Dedicatus5457/main/public.gpg)
 - [SSH Public key](https://raw.githubusercontent.com/Dedicatus5457/Dedicatus5457/main/id_ed25519.pub)
+
+<!--
 **Dedicatus5457/Dedicatus5457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
