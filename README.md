@@ -8,7 +8,8 @@
 ### Keys
 - [PGP Public Key](https://raw.githubusercontent.com/Dedicatus5457/Dedicatus5457/main/public.gpg)
 - [SSH Public key](https://raw.githubusercontent.com/Dedicatus5457/Dedicatus5457/main/id_ed25519.pub)
-
+```finger print
+Fingerprint=EA57 7721 F828 4C07 17E5  5FFD A3FE D812 4AC7 5009
 <!--
 **Dedicatus5457/Dedicatus5457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
